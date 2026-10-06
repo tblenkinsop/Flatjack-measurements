@@ -13,7 +13,7 @@ Tom Blenkinsop1,2, Nick Kusznir2,3, David Healy4,  Tim Davis5
 4.	Geosolutions Leeds, School of Earth, Environment & Sustainability, University of Leeds, Leeds LS2 9JT
 5.	School of Earth Sciences, University of Bristol, Bristol BS8 1RJ
 
-submitted to Speail Publication of the Geological Society,
+submitted to Special Publication of the Geological Society,
 "Tectonic Stress: From the Lithosphere to the Wellbore”
 
 
